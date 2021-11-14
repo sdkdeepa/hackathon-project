@@ -12,7 +12,8 @@ Diverstiy in the tech industry.
         - Inclusive and safe environment for women.
 
 # Prototype:
- ![prototype](https://github.com/sdkdeepa/hackathon-project/img/Home.png)
+![prototype ](https://github.com/sdkdeepa/hackathon-project/blob/main/img/Home.png?raw=true)
+
 
 # Coding 
     - Front End: HTML, CSS, JavaScript
