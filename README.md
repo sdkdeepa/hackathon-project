@@ -1,5 +1,5 @@
 # hackathon-project
-Girls in Tech SF Hackathon 2021
+Girls in Tech SF Hackathon 
 
 ![certificate](https://github.com/sdkdeepa/hackathon-project/blob/main/Certificate.png)
 
